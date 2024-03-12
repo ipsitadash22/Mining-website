@@ -16,8 +16,7 @@ Overall, this webpage aims to provide information and potentially answer questio
 HTML Structure:
 
 The core structure is built with HTML tags, defining elements like the header, navigation bar, content sections, and footer.
-Images are included using the <img> tag with specified sources and alternative text for accessibility.
-Text content and headings are incorporated using tags like <h1>, <p>, and <h3> for proper organization.
+
 
 
 
